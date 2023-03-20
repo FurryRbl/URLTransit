@@ -1,0 +1,64 @@
+#Top {
+    display: flex;
+    justify-content: center;
+    width: 20rem;
+    height: 2.7rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 0 black, 0 0 25px #CE9FFC , 0 0 5px #7367F0 ;
+    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
+}
+
+#Introduce {
+    width: 50rem;
+    height: 13rem;
+    padding-left: 1rem;
+    background-color: rgba(29, 173, 230, 0.2);
+    margin-top: 2rem;
+    text-align: left;
+    border-radius: 1rem;
+    box-shadow: 0 0 0 black, 0 0 25px #FDEB71, 0 0 5px #F8D800;
+}
+
+#Docs {
+    width: 50rem;
+    height: 30rem;
+    padding-left: 1rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 0 black, 0 0 25px #81FBB8 , 0 0 5px #28C76F;
+    background-color: rgba(29, 173, 230, 0.2);
+}
+
+#End {
+    width: 50rem;
+    height: 5rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 0 black, 0 0 25px #CE9FFC , 0 0 5px #7367F0 ;
+    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
+}
+
+button {
+    width: 4rem;
+    border: none;
+    background:transparent;
+    font-size: 1rem;
+    border-radius: 0.9rem;
+    font-weight: bold;
+}
+
+button:hover {
+    color: #F8D800 ;
+}
+
+.Text_Title {
+    background-image: linear-gradient( 135deg, #97ABFF 10%, #123597 100%);
+    background-clip: text;
+    color: transparent;
+}
+
+.Text_Focus {
+    background-image: linear-gradient( 135deg, #FFF6B7 10%, #F6416C 100%);;
+    background-clip: text;
+    color: transparent;
+}
