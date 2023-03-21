@@ -6,4 +6,6 @@
 
 ## 鸣谢
 
-[Gradient Colors Collection Palette - CoolHue 2.0](https://webkul.github.io/coolhue/) **提供配色支持**
+[Gradient Colors Collection Palette - CoolHue 2.0](https://webkul.github.io/coolhue/) **提供配色**
+
+[Glass Morphism](https://glassgenerator.netlify.app/) **提供毛玻璃效果**

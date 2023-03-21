@@ -1,11 +1,10 @@
 #Top {
-    display: flex;
-    justify-content: center;
     width: 20rem;
     height: 2.7rem;
+    display: flex;
     border-radius: 1rem;
+    justify-content: center;
     box-shadow: 0 0 0 black, 0 0 25px #CE9FFC , 0 0 5px #7367F0 ;
-    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
 }
 
 #Introduce {
@@ -35,7 +34,10 @@
     margin-top: 2rem;
     border-radius: 1rem;
     box-shadow: 0 0 0 black, 0 0 25px #CE9FFC , 0 0 5px #7367F0 ;
-    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
+}
+
+body {
+    background-image: linear-gradient( 135deg, #81FFEF 10%, #F067B4 100%);
 }
 
 button {
